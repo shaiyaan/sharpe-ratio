@@ -14,3 +14,7 @@ Calculated and analyzed Sharpe Ratios for different stocks to evaluate their ris
 
 ## Results
 Provided comprehensive analysis of risk-adjusted returns across different stocks, enabling informed investment decisions based on risk-reward relationships.
+
+Note: Certain proprietary sections of the code have been omitted or replaced with placeholders for confidentiality. 
+The overall approach and architecture remain intact for understanding.
+
