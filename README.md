@@ -1,6 +1,8 @@
 # Sharpe Ratio Analysis
 
-Financial analysis comparing risk-adjusted returns of stocks using the Sharpe Ratio.
+Financial analysis comparing risk-adjusted returns of stocks using the Sharpe Ratio. 
+Note: Certain proprietary sections of the code have been omitted or replaced with placeholders for confidentiality. 
+The overall approach and architecture remain intact for understanding.
 
 ## Approach
 Calculated and analyzed Sharpe Ratios for different stocks to evaluate their risk-adjusted performance. Implemented data processing to handle financial time series data and calculate daily returns. Computed risk-free rates and excess returns to determine risk-adjusted performance. Created visualizations to compare stock performance and risk metrics.
@@ -15,6 +17,5 @@ Calculated and analyzed Sharpe Ratios for different stocks to evaluate their ris
 ## Results
 Provided comprehensive analysis of risk-adjusted returns across different stocks, enabling informed investment decisions based on risk-reward relationships.
 
-Note: Certain proprietary sections of the code have been omitted or replaced with placeholders for confidentiality. 
-The overall approach and architecture remain intact for understanding.
+
 
